@@ -4,4 +4,8 @@ public class Hat {
 
     // hat hat hat
 
+    // winter time hat is perfect
+
+    // keeps you warm
+
 }
