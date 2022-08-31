@@ -8,4 +8,7 @@ public class Hat {
 
     // keeps you warm
 
+    // hat is not bad
+
+    //cool
 }
