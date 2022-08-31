@@ -4,4 +4,6 @@ public class Water {
 
     // We have to safe water all time
 
+    // added new line
+
 }
